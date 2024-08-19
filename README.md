@@ -1,0 +1,2 @@
+# DiffCheckAnnouncer
+Staging環境とRelease環境で差分のあるファイルの一覧をSlackの任意チャンネルに投稿するツール
