@@ -1,2 +1,5 @@
 # DiffCheckAnnouncer
 Staging環境とRelease環境で差分のあるファイルの一覧をSlackの任意チャンネルに投稿するツール
+
+・WinMergeを使ってフォルダの比較を行い、差分のあるファイルの名前をリストアップする
+・リストアップされたテキストをSlackのIncommingWebhookを使用して所定のチャンネルに投稿する
